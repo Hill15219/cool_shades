@@ -1,3 +1,4 @@
+# cool_shades
 <!doctype html>
 <html lang="en">
   <head>
@@ -49,38 +50,37 @@
     </div>
   </nav>
 </div>
-
             <div id=main>
-              <div class=" col-ml px-3 pt-3">
-                <h1> Audio Sunglasses</h1>
-                  </div>
-                  <div>
-                    <ul class="col-ml">
-                      <h3> Hit the slopes or Ride your bike without earbuds</h3>
-                    </div>
-                    <div>
-                   <div>
-                  <ul class="col-ml">
-                 <button type="button" class="btn btn-primary btn-peppers ">Shop Now</button>
-                </div>
-               </div>
+              <div class=" container- margin=left px8-pt">
+              <ul class="col-ml">
+            <h1> Audio Sunglasses</h1>
+          </div>
+          <div>
+            <ul class="col-ml">
+            <h3> Hit the slopes or Ride your bike without earbuds</h3>
+          </div>
+            <div>
+              <div>
+                <ul class="col-ml">
+            <button type="button" class="btn btn-primary btn-peppers ">Shop Now</button>
+          </div>
+        </div>
               <git commit -m "fixed markup in the nav to match the mocks"
-            </div id=main>
-                </div>
-                  <div>
-                  </div>
-                    </div>
-                      </div>
-                       </div>
+            </div id =main>
+              </div>
+              <div>
+              </div>
+            </div>
+            </div>
+          </div>
 
 
 
 
 <!-- this the end -->
-<!-- this over-->
 
-<div></div>
-<div class="container ml-auto px-5 pt-5">
+
+<div class="container px-5 pt-5">
 <div class="row">
 <div class="col-md-6">
 <h1> Hands free</h1>

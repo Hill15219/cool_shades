@@ -1,0 +1,76 @@
+.hero{
+  background-image: url("images/hero.jpg");
+  background-size: cover;
+}
+.logo-Rock-n-Stroll{
+font-size: 3em;
+font-style: italic;
+font-weight: bolder;
+float: left;
+margin-left: auto;
+}
+
+.logo-subimage{
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: bold;
+  float: auto;
+  margin: 0 8px 0 0;
+
+}
+#h1{
+    font-style: italic;
+    font-weight: bold;
+    margin: inherit;
+}
+
+  .btn-peppers{
+    background-color: #D51418;
+    color:#FFFFFF;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+.btn-peppers:hover{
+  background-color: #aa1418;
+
+}
+.btn-link:hover {
+    color: #b30000;
+
+}
+
+.ig-abs{
+  position: left;
+  float: left;
+  bottom:10;
+  Left:25;
+}
+
+#main {
+  width: 600px;
+  margin: 11em auto;
+  float: inherit;
+  font-size:12rem
+  font-weight: bold;
+  color: #FCF8F7
+}
+#simple {
+  width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+}
+
+#navbarNav{
+  position: relative;
+  color: #FCF8F7
+}
+.btnbtn-link{
+  color:#FB0909
+}
+
+.subtitle {
+  vertical-align:
+  font-weight: 400;
+  font-size: 0.8em;
+}
